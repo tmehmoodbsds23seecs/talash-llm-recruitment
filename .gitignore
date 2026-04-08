@@ -1,0 +1,34 @@
+# Personal data files - DO NOT UPLOAD
+*.pdf
+data.pdf
+candidate_*.pdf
+*.docx
+*.xlsx
+
+# API keys and secrets
+.streamlit/secrets.toml
+.env
+*.key
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
