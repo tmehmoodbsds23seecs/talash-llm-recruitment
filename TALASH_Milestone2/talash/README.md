@@ -1,10 +1,10 @@
-# 🎯 TALASH — Milestone 2
+#  TALASH — Milestone 2
 **Talent Acquisition & Learning Automation for Smart Hiring**  
 CS 417 · Large Language Models · Spring 2026 · BSDS-2K23
 
 ---
 
-## ⚡ Quick Setup (do this once)
+##  Quick Setup (do this once)
 
 ### 1. Clone / open the project in VS Code
 ```
@@ -35,7 +35,7 @@ Get a **free** key at → https://console.groq.com
 
 ---
 
-## 🚀 Running the Application
+##  Running the Application
 
 You need **two terminals** open in VS Code (`Ctrl+Shift+`` ` twice).
 
@@ -53,7 +53,7 @@ Browser opens automatically at → http://localhost:8501
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 talash/
 ├── backend/
@@ -94,7 +94,7 @@ talash/
 
 ---
 
-## ✅ Milestone 2 Rubric Coverage
+##  Milestone 2 Rubric Coverage
 
 | Criterion | Marks | Where in app |
 |-----------|-------|--------------|
@@ -107,7 +107,7 @@ talash/
 
 ---
 
-## 🔑 Optional: Add QS Rankings Excel
+##  Optional: Add QS Rankings Excel
 
 1. Download: https://www.topuniversities.com/world-university-rankings
 2. Place the `.xlsx` file in `qs_rankings/` folder  
@@ -117,7 +117,7 @@ Without the file, a built-in list of 20+ Pakistani + international universities 
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 | Issue | Fix |
 |-------|-----|
