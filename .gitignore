@@ -1,0 +1,27 @@
+# API keys - NEVER commit
+.streamlit/secrets.toml
+secrets.toml
+*.toml
+
+# Database
+candidates.db
+*.db
+
+# PDF files (contains personal data)
+*.pdf
+data/
+uploads/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
