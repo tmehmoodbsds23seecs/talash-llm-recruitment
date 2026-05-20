@@ -1,4 +1,4 @@
-#  TALASH: Milestone 3 - Smart HR Recruitment & Talent Analysis
+#  TALASH: Smart HR Recruitment & Talent Analysis
 
 Welcome to the production-ready version of **TALASH**. This system uses Advanced LLMs to analyze, score, and verify academic and professional CVs.
 
@@ -54,4 +54,10 @@ Each section (Education, Experience, etc.) is scored from 0-100. The **Status** 
 *   **AI**: OpenRouter (Gemini 2.0 Flash / GPT-OSS).
 *   **APIs**: CrossRef, PubMed, OpenLibrary.
 
-**TALASH | Smart Recruitment | Milestone 3**
+---
+
+## Team Members
+
+- **Tahir Mehmood** — [LinkedIn](https://www.linkedin.com/in/tahir-mehmood-622a412a0/)
+- **Mohid Arshad** — [GitHub](https://github.com/akamohid) | [LinkedIn](https://www.linkedin.com/in/akamohid/)  
+- **Mohammad Hasnain** — [LinkedIn](https://www.linkedin.com/in/mohammad-hasnain-3670452a7/)  
